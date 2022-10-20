@@ -3,12 +3,13 @@
 ![github_cover_banner](https://cdn.discordapp.com/attachments/813373044458389544/1032747133213880360/banenr.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Jestem zapalonym, sportowym programistą i studentem informatyki. Uwielbiam uczyć się nowych języków programowania i technologii. Uwielbiam też pomagać ludziom w nauce programowania. Dlatego publikuję kilka samouczków dotyczących kodowania na moim kanale na YouTube.
+    Jestem zapalonym, sportowym programistą i studentem informatyki. Uwielbiam uczyć się nowych języków programowania i technologii. Uwielbiam też programować ludziom w nauce programowania. Dlatego publikuję kilka samouczków dotyczących kodowania na moim kanale na YouTube.
+</p>
 <br>
 <br>
 <div align="center">
 
-[Email Me](mailto:lordmaselko@spicycode.pl)
+[Zamailuj do mnie](mailto:lordmaselko@spicycode.pl)
 </div>
 </p>    
 <br>
@@ -119,6 +120,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=LordMaselko&count_private=true&theme=algolia&border_radius=20)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordMaselko&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+skript
 </div>
 <!--  End Stats Cards -->
 
