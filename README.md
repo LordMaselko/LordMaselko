@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Adam Masełko, AKA Lord_maselko137</h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 A. Masełko, AKA Lord_maselko137</h1>
 
 ![github_cover_banner](https://cdn.discordapp.com/attachments/813373044458389544/1032747133213880360/banenr.gif)
 
