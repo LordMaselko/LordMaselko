@@ -99,36 +99,7 @@
 <br>
 <br>
 
-<!-- ostatnei moje tutoriale -->
 
-<h2 style="color: #44AEFB">🎦 ostatnie filmiki na youtubie</h2>
-<br />
-
-<!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div class="youtube videos cards" align="center">
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Outstanding GitHub Profile README Portfolio | 2 Ways in 4 Minutes!](https://ytcards.demolab.com/?id=jjilbKTNwLk&title=Outstanding+GitHub+Profile+README+Portfolio+%7C+2+Ways+in+4+Minutes%21&lang=en&timestamp=1665237440&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Outstanding GitHub Profile README Portfolio | 2 Ways in 4 Minutes!")](https://www.youtube.com/watch?v=jjilbKTNwLk)
-[![Scratch Functions | My Blocks](https://ytcards.demolab.com/?id=FqAvlmvfo7k&title=Scratch+Functions+%7C+My+Blocks&lang=en&timestamp=1664182702&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Scratch Functions | My Blocks")](https://www.youtube.com/watch?v=FqAvlmvfo7k)
-[![AI Car Racing Game In Scratch](https://ytcards.demolab.com/?id=4DIV3K7pOek&title=AI+Car+Racing+Game+In+Scratch&lang=en&timestamp=1663144511&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "AI Car Racing Game In Scratch")](https://www.youtube.com/watch?v=4DIV3K7pOek)
-[![What Is JSON And How To Generate And Parse It Using Node.js - In 7 Minutes](https://ytcards.demolab.com/?id=WskFRusLDI8&title=What+Is+JSON+And+How+To+Generate+And+Parse+It+Using+Node.js+-+In+7+Minutes&lang=en&timestamp=1662986380&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "What Is JSON And How To Generate And Parse It Using Node.js - In 7 Minutes")](https://www.youtube.com/watch?v=WskFRusLDI8)
-[![Simple pong game in python using pygame.](https://ytcards.demolab.com/?id=0-3HOwEegBI&title=Simple+pong+game+in+python+using+pygame.&lang=en&timestamp=1655742492&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Simple pong game in python using pygame.")](https://www.youtube.com/watch?v=0-3HOwEegBI)
-[![Tetris in python using pygame](https://ytcards.demolab.com/?id=Exu8rXU9skw&title=Tetris+in+python+using+pygame&lang=en&timestamp=1655328690&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Tetris in python using pygame")](https://www.youtube.com/watch?v=Exu8rXU9skw)
-<!-- END YOUTUBE-CARDS -->
-</div>
-
-<!-- Begin Youtube Buttons -->
-<!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
-<div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w"  target="_blank">
-        <img alt="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w"  target="_blank">
-        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-</div>
-<br>
-<!-- End Youtube Buttons -->
 
 <!-- Statistics -->
 
